@@ -1,0 +1,27 @@
+{
+  "name": "noradle-fcgi",
+  "version": "0.0.0",
+  "description": "fast-cgi gateway between web server(apache,nginx,...) and oracle(noradle plsql servlet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noradle/noradle-fcgi.git"
+  },
+  "keywords": [
+    "fastcgi",
+    "fast-cgi",
+    "fcgi",
+    "noradle",
+    "plsql",
+    "oracle"
+  ],
+  "author": "kaven276@vip.sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noradle/noradle-fcgi/issues"
+  },
+  "homepage": "https://github.com/noradle/noradle-fcgi"
+}
